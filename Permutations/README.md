@@ -19,3 +19,14 @@
   
  ``` $ ./executable input.csv ```
  
+## OUTPUT :
+  ![output](https://i.ibb.co/db2xRGK/img.png)
+
+## Also see 
+
+* [Book-Store](https://github.com/anandhere8/Book-Store) - Book store app in python
+* [World population and volcano](https://github.com/anandhere8/World-Population-and-Usa-volcano-map) - Old data is being used
+* [ROT - 13](https://github.com/anandhere8/ROT13) - Encrytion Algorithm
+
+## Contact
+* [Anand](https://www.linkedin.com/in/anand-kumar-ba90a4172/)
