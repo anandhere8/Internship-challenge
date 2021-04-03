@@ -26,9 +26,9 @@
 
 ## Also see 
 
-* [Mail](https://github.com/anandhere8/php/tree/master/Mail) - Mail via SMTP Server
-* [SMS](https://github.com/anandhere8/php/tree/master/SMS) - SmS using way2sms API
-* [Hidden Tic Toc Toe](https://github.com/anandhere8/C/tree/master/HiddenTicTocToe)- Hidden Tic Toc Toe
+* [Book-Store](https://github.com/anandhere8/Book-Store) - Book store app in python
+* [World population and volcano](https://github.com/anandhere8/World-Population-and-Usa-volcano-map) - Old data is being used
+* [Muzika](https://github.com/anandhere8/MuziKa) - Discord Bot
 
 ## Contact
 * [Anand](https://www.linkedin.com/in/anand-kumar-ba90a4172/)
