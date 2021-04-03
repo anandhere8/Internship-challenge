@@ -1,4 +1,4 @@
-![Welcome]
+
 # PERMUTATIONS
 
 ## Problem Statement :
@@ -11,7 +11,9 @@
 
 ## How to use?
  - Compile :
+ 
  ``` $ g++ permutations.cpp -o executable```
- - Run : 
+ - Run :
+  
  ``` $ ./executable input.csv ```
  
