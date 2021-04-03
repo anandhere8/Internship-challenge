@@ -1,3 +1,6 @@
+// techiehere08@gmail.com
+// Author : ANAND KUMAR
+
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -8,7 +11,7 @@ int main(int argc, char **argv) {
     return 0;
   }
   
-  auto process = [](string tmp) {
+  auto process = [](string tmp) { // filtering the strings from unwanted characters
     string res = "";
     for (auto x : tmp) {
       if (isalpha(x)) {

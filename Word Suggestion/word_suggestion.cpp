@@ -1,10 +1,11 @@
+// techiehere08@gmail.com
+// Author : ANAND KUMAR
+
 #include <bits/stdc++.h>
 
 using namespace std;
 
-// function for matching the two string to find similiarity  
-
-int match_cost(string &s1, string &s2) {
+int match_cost(string &s1, string &s2) { // function for matching the two string to find similiarity  
   int n = s1.size();
   int m = s2.size();
   
