@@ -1,4 +1,5 @@
-<p align="center"> # Word Suggestion </p>
+<p align="center">
+  # Word Suggestion </p>
 
 ## Problem Statement :
   Given a list of words (say dictionary) in a csv file along with its frequency. Take a word as input
