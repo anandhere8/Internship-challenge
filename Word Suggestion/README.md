@@ -1,5 +1,4 @@
-<p align="center">
-  # Word Suggestion </p>
+# Word Suggestion
 
 ## Problem Statement :
   Given a list of words (say dictionary) in a csv file along with its frequency. Take a word as input
@@ -11,7 +10,7 @@
   > g++ 
  
  ## Algorithm used :
-  > Edit Distance - https://www.geeksforgeeks.org/edit-distance-dp-5/
+  > Edit Distance - Basic Idea is to find the similiarity between two strings, reference : https://www.geeksforgeeks.org/edit-distance-dp-5/
  
  ## How to use :- 
  - Compile :
@@ -23,3 +22,4 @@
 
 ## OUTPUT
   ![output](https://raw.githubusercontent.com/anandhere8/Internship-challenge/main/Word%20Suggestion/img/img.png?token=AJ6E5KBMMKDG7XJHWKT66ELANCAAU)
+
