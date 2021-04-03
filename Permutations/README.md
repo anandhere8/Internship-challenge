@@ -10,6 +10,8 @@
 > g++17
 
 ## How to use?
+> Clone the repository.
+> Move to the respective directory.
  - Compile :
  
  ``` $ g++ permutations.cpp -o executable```
