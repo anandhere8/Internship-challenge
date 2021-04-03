@@ -8,7 +8,10 @@
  
  # Requirement : 
   > g++ 
-  
+ 
+ # Algorithm used :
+  > Edit Distance - https://www.geeksforgeeks.org/edit-distance-dp-5/
+ 
  # How to use :- 
  - Compile :
 
