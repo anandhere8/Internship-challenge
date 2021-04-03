@@ -7,7 +7,7 @@
   ./executable input.csv
   
 ## Requirement : 
-> g++17
+> g++
 
 ## How to use?
 > Clone the repository.
